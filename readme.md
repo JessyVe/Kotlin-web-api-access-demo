@@ -16,3 +16,6 @@ This Repository acts as a showcase for the how to connect to a web api and work 
 	}
 	```
 	NOTE: Try using the newest available gson version.
+
+## Demo data
+For testing, a demo-json file is provide in 	```..\resources```

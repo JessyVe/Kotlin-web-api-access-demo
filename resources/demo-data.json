@@ -1,0 +1,14 @@
+[
+   {
+      "age":3,
+      "color":"Black-White",
+      "name":"Mika",
+      "state":"Fluffy"
+   },
+   {
+      "age":8,
+      "color":"Tiger-look",
+      "name":"Puma",
+      "state":"ShortHair"
+   }
+]
