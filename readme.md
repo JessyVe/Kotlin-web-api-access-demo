@@ -15,3 +15,4 @@ This Repository acts as a showcase for the how to connect to a web api and work 
 	    implementation 'com.google.code.gson:gson:2.8.2'  
 	}
 	```
+	NOTE: Try using the newest available gson version.
