@@ -61,7 +61,8 @@ class MainActivity : AppCompatActivity() {
         btLoad?.isEnabled = false
         progressBar?.visibility = View.VISIBLE
 
-        var resultText : String = loadApiData()
+        // TODO: Make call in co-routine
+        var resultText: String = loadApiData()
         tvResult?.text = resultText
 
         progressBar?.visibility = View.INVISIBLE
