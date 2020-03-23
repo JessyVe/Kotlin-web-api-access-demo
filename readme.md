@@ -19,3 +19,8 @@ This Repository acts as a showcase for the how to connect to a web api and work 
 
 ## Demo data
 For testing, a demo-json file is provide in 	```..\resources```
+
+## References
+- [Call webservice kotlin android](https://www.iotwebplanet.com/call-webservice-kotlin-android/) (last seen 23-03-2020)
+- [Kotlin json convert data class](https://www.baeldung.com/kotlin-json-convert-data-class) (last seen 23-03-2020)
+- [Most elegant way of using Gson + Kotlin with default values and null safety](https://proandroiddev.com/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c) (last seen 23-03-2020)
