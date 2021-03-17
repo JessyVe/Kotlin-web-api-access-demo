@@ -1,6 +1,6 @@
 # Load json-data from web service
 **EDUCATION Repository**
-This Repository acts as a showcase for the how to connect to a web api and work with the received json data within a Kotlin-based Andriod app.
+This Repository acts as a showcase for how to connect to a web api and work with the received json data within a Kotlin-based Andriod app.
 
 
 ## Adding depenedencies
